@@ -1,153 +1,113 @@
-const logotext = "{Initials Here}";
+const logotext = "C. Lemoine";
 const meta = {
-    title: "{Your name}",
-    description: "I'm {Your name}, a technologist and cybersecurity enthuist.",
+    title: "Christopher Lemoine",
+    description: "I'm Christopher Lemoine, a Apprentice web developer.",
 };
 
 const introdata = {
-    title: "Hi, I'm {Your Name}",
+    title: "Hi, I'm Christopher Lemoine",
     animated: {
-        first: "Technologist",
+        first: "Web developer",
         second: "Visionary",
-        third: "Ethical Hacker",
+        third: "Code Problem Solver",
         fourth: "Programmer",
-        fifth: "Malware Developer",
-        sixth: "Analyst",
-        // add more if you'd like but make sure to update /src/pages/home/index.js Line 29
+        fifth: "Analyst",
     },
-    description: "Dedicated technology enthusiast with an insatiable curiosity for unraveling the complexities of our digital world.",
-    your_img_url: "https://i.ibb.co/wRjcnGL/me.jpg",
+    description: "On a quest for mastery in the world of web development, I'm passionate about crafting innovative online experiences.",
+    your_img_url: "https://i.ibb.co/YRQRX1X/20230107-052342.jpg",
 };
 
 const dataabout = {
     title: "Who am I?",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    aboutme: "I've successfully completed my web development training and am now fully immersed in the dynamic world of web development. My journey through this field has been both rewarding and enlightening. A passionate gamer, I draw inspiration from the creative and innovative world of video games. This passion fuels my drive to create and optimize websites. I relish diving into code, solving complex issues, and enhancing user experiences. Every website I encounter presents an opportunity for learning, whether it's adding new features, debugging, or optimizing performance. My commitment to expanding my web development skills remains unwavering. I'm dedicated to bringing creative solutions to exciting web projects. Explore my portfolio to delve into my work and past projects.",
 };
 const worktimeline = [{
-        jobtitle: "Example 1",
-        where: "Google",
-        date: "2023",
+        jobtitle: "Bac Sti2D",
+        where: "Lycée de la communication",
+        date: "2019",
     },
     {
-        jobtitle: "Example 2",
-        where: "Micosoft",
+        jobtitle: "Barman",
+        where: "Le Pub , Nancy",
         date: "2022",
     },
     {
-        jobtitle: "Example 3",
-        where: "Meta",
-        date: "2021",
+        jobtitle: "Bac + 2 Dev Web",
+        where: "OpenClassRooms",
+        date: "2023",
     },
 ];
 
 const skills = [{
-        name: "Python",
+        name: "HTML",
     },
     
     {
-        name: "C",
+        name: "CSS",
     },
     
     {
-        name: "Java",
+        name: "JavaScript",
     },
     
     {
-        name: "Bash",
+        name: "React",
     },
 
     {
-        name: "Powershell",
+        name: "Git/GitHub",
     },
 
     {
-        name: "Reverse Engineering",
+        name: "NodeJS",
     },
 
     {
-        name: "Web-Exploitation",
+        name: "Express",
     },
 
     {
-        name: "Network Exploitation",
+        name: "MongoDB",
     },
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://msn570.github.io/Site-OCR/Assets/Images_Booki/activites/4_small/paul-hermann-QFTrLdQIRhI-unsplash.jpg",
+        description: "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
+        link: "https://msn570.github.io/Site-OCR/",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.ibb.co/L9M76MX/sophie-bluel.png",
+        description: "Créez une page web dynamique avec JavaScript",
+        link: "https://github.com/Msn570/Projet3OCR",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://msn570.github.io/Projet5OCR/assets/images/nina.webp",
+        description: "Débuggez et optimisez un site de photographe",
+        link: "https://msn570.github.io/Projet5OCR/",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-19-1.jpg",
+        description: "Créez une application web de location immobilière avec React",
+        link: "https://msn570.github.io/Projet6OCR/",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+        img: "https://i.ibb.co/nCTDLTH/book-add.jpg",
+        description: "Développez le back-end d'un site de notation de livres",
+        link: "https://msn570.github.io/Projet7OCR/",
+    }
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "test@test.com",
+    YOUR_EMAIL: "Msn57130@outlook.com",
     description: "Looking forward to hearing from you!",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "SERVICE_ID",
-    YOUR_TEMPLATE_ID: "TEMPLATE_ID",
-    YOUR_USER_ID: "USER_ID (PUBLIC_KEY)",
+    YOUR_SERVICE_ID: "service_g3va4g8",
+    YOUR_TEMPLATE_ID: "template_q3f0rqq",
+    YOUR_USER_ID: "_2jYGMiZp5_GoetTx",
 };
 
 const socialprofils = {
-    github: "https://github.com/",
+    github: "https://github.com/Msn570",
     linkedin: "https://linkedin.com/",
 };
 export {

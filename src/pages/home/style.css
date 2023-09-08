@@ -229,9 +229,6 @@ section {
     color: var(--text-color)
 }
 
-.intro_sec .h_bg-image {
-    filter: saturate(0.5);
-}
 
 .typewriter-text {
     color: rgb(32, 236, 83);
