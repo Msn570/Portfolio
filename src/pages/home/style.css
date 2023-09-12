@@ -99,6 +99,7 @@ section {
 }
 
 .ac_btn {
+    margin:5px;
     padding: 4px 19px;
     color: var(--secondary-color);
     position: relative;
