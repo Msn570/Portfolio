@@ -92,7 +92,7 @@ const dataportfolio = [{
     {
         img: "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-19-1.jpg",
         description: "Créez une application web de location immobilière avec React",
-        min:"J'ai développé une application web React en respectant les maquettes Figma, garantissant la qualité du code et la réactivité de l'interface. Malgré l'absence d'un back-end complet, j'ai réussi à intégrer les données des 20 dernières annonces de logements à l'application. J'ai également pris en compte les contraintes techniques et fonctionnelles, assurant ainsi une expérience utilisateur optimale.",
+        min:"J'ai développé une application web React en respectant les maquettes Figma, garantissant la qualité du code et la réactivité de l'interface. Malgré l'absence d'un back-end complet, j'ai réussi à intégrer les données des 20 dernières annonces de logements à l'application. J'ai garantie une expérience utilisateur optimale.",
         link: "https://msn570.github.io/Projet6OCR/",
     },
     {
