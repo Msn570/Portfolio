@@ -74,6 +74,7 @@ const skills = [{
 const dataportfolio = [{
         img: "https://msn570.github.io/Site-OCR/Assets/Images_Booki/activites/4_small/paul-hermann-QFTrLdQIRhI-unsplash.jpg",
         description: "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
+        min: "Expérimenté dans l'intégration de maquettes pour divers affichages (desktop, tablette, mobile), je respecte rigoureusement les spécifications techniques. Mon expertise en HTML, CSS, et ma maîtrise de Git contribuent au succès de chaque projet.",
         link: "https://msn570.github.io/Site-OCR/",
     },
     {
