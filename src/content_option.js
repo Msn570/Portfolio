@@ -80,21 +80,25 @@ const dataportfolio = [{
     {
         img: "https://i.ibb.co/L9M76MX/sophie-bluel.png",
         description: "Créez une page web dynamique avec JavaScript",
+        min:"Développer la page de présentation de l'architecte à partir du code HTML fourni. Créer la page de connexion de l'administrateur (client) à partir de zéro. Créer une modale d'upload de nouveaux médias à partir de zéro.",
         link: "https://github.com/Msn570/Projet3OCR",
     },
     {
         img: "https://msn570.github.io/Projet5OCR/assets/images/nina.webp",
         description: "Débuggez et optimisez un site de photographe",
+        min:"Optimisation des images et du code pour améliorer les performances et le SEO. Mise en place du référencement local et des métadonnées pour les réseaux sociaux. Correction des bugs dans la navigation de la galerie et l'affichage des catégories de filtre.",
         link: "https://msn570.github.io/Projet5OCR/",
     },
     {
         img: "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-19-1.jpg",
         description: "Créez une application web de location immobilière avec React",
+        min:"J'ai développé une application web React en respectant les maquettes Figma, garantissant la qualité du code et la réactivité de l'interface. Malgré l'absence d'un back-end complet, j'ai réussi à intégrer les données des 20 dernières annonces de logements à l'application. J'ai également pris en compte les contraintes techniques et fonctionnelles, assurant ainsi une expérience utilisateur optimale.",
         link: "https://msn570.github.io/Projet6OCR/",
     },
     {
         img: "https://i.ibb.co/nCTDLTH/book-add.jpg",
         description: "Développez le back-end d'un site de notation de livres",
+        min:"En tant que développeur back-end, j'ai créé l'API pour le site 'Mon Vieux Grimoire', permettant aux membres de noter les livres. J'ai assuré une intégration harmonieuse avec le front-end React pour une expérience utilisateur fluide.",
         link: "https://msn570.github.io/Projet7OCR/",
     }
 ];
