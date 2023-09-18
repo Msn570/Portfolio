@@ -80,7 +80,7 @@ const dataportfolio = [{
     {
         img: "https://i.ibb.co/L9M76MX/sophie-bluel.png",
         description: "Créez une page web dynamique avec JavaScript",
-        min:"Développer la page de présentation de l'architecte à partir du code HTML fourni. Créer la page de connexion de l'administrateur (client) à partir de zéro. Créer une modale d'upload de nouveaux médias à partir de zéro. Le plus grand obstacle sur cette réalisation aura été de comprendre la logique et la syntaxe de javascript",
+        min:"Développer la page de présentation de l'architecte à partir du code HTML fourni. Créer la page de connexion de l'administrateur à partir de zéro. Créer une modale d'upload de nouveaux médias. Le plus grand obstacle sur cette réalisation aura été de comprendre la logique et la syntaxe de javascript",
         link: "https://github.com/Msn570/Projet3OCR",
     },
     {
