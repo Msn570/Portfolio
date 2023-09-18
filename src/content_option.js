@@ -74,13 +74,13 @@ const skills = [{
 const dataportfolio = [{
         img: "https://msn570.github.io/Site-OCR/Assets/Images_Booki/activites/4_small/paul-hermann-QFTrLdQIRhI-unsplash.jpg",
         description: "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
-        min: "Expérimenté dans l'intégration de maquettes pour divers affichages (desktop, tablette, mobile), je respecte rigoureusement les spécifications techniques. Mon expertise en HTML, CSS, et ma maîtrise de Git contribuent au succès de chaque projet.",
+        min: "Expérimenté dans l'intégration de maquettes pour divers affichages (desktop, tablette, mobile), je respecte rigoureusement les spécifications techniques. Mon expertise en HTML, CSS, et ma maîtrise de Git contribuent au succès de chaque projet. Durant le développement, le plus grand obstacle a été de rendre le site responsive. ",
         link: "https://msn570.github.io/Site-OCR/",
     },
     {
         img: "https://i.ibb.co/L9M76MX/sophie-bluel.png",
         description: "Créez une page web dynamique avec JavaScript",
-        min:"Développer la page de présentation de l'architecte à partir du code HTML fourni. Créer la page de connexion de l'administrateur (client) à partir de zéro. Créer une modale d'upload de nouveaux médias à partir de zéro.",
+        min:"Développer la page de présentation de l'architecte à partir du code HTML fourni. Créer la page de connexion de l'administrateur (client) à partir de zéro. Créer une modale d'upload de nouveaux médias à partir de zéro. Le plus grand obstacle sur cette réalisation aura été de comprendre la logique et la syntaxe de javascript",
         link: "https://github.com/Msn570/Projet3OCR",
     },
     {
